@@ -1,4 +1,4 @@
-# TohtoriKuka
+# Taro IT tech
 <!-- Social Section -->
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
